@@ -5,3 +5,5 @@ You will always write good commit messages.
 You will always have a reviewer on your PR's.
 
 I will prefer rebase over merge.
+
+I will only merge code into dev that I have tested.
